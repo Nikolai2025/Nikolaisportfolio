@@ -15,6 +15,11 @@ Each page includes the same UI structure so you can compare them fairly:
 The goal is to compare how the same layout is written using different CSS frameworks — without Next.js, React, or any other frontend framework.
 
 ---
+<img width="348" height="474" alt="blockblastcolor" src="https://github.com/user-attachments/assets/5bcfeba2-4583-47ec-93b6-551e81778dc1" />
+<img width="602" height="367" alt="aisummerizer" src="https://github.com/user-attachments/assets/ae253579-6b66-405a-a97a-645751e76897" />
+<img width="187" height="162" alt="Logo" src="https://github.com/user-attachments/assets/c16e9746-3aa4-48e9-8036-00cbb726880d" />
+<img width="1890" height="1417" alt="portræt kopier" src="https://github.com/user-attachments/assets/64f4f3b8-742a-4839-b6a8-7486f344caa3" />
+![pantafhenting](https://github.com/user-attachments/assets/1c495efe-cf68-4524-8bd7-594122824b6f)
 
 ## Project Structure
 
